@@ -2,7 +2,7 @@
 
 **`Data Analyst`**
 
-Olá, me chamo Washington Elias, tenho 31 anos e sou de Lisboa. Recentemente concluir um Bootcamp na Tripleten em Análise de Dados assim aperfeiçoando os meus conhecimentos em SQL, Python (pandas, numpy, matplotlib), Criação de dashboards, Tableau, KPIs, Extração de dados, Banco de Dados, e Análise de Dados em projetos práticos. Sou apaixonado por tecnologia e por transformar dados em insights estratégicos e sempre buscando gerar valor a partir da informação.
+Olá, chamo-me Washington Elias, tenho 31 anos e sou de Lisboa. Recentemente conclui um Bootcamp na Tripleten em Análise de Dados assim aperfeiçoando os meus conhecimentos em SQL, Python (pandas, numpy, matplotlib), Criação de dashboards, Tableau, KPIs, Extração de dados, Banco de Dados e Análise de Dados em projetos práticos. Sou apaixonado por tecnologia e por transformar dados em insights estratégicos, sempre buscando gerar valor a partir da informação.
 
 ---
 
@@ -17,5 +17,3 @@ Olá, me chamo Washington Elias, tenho 31 anos e sou de Lisboa. Recentemente con
 
 <br/>
 <br/>
-
-### 📊 Estatísticas
