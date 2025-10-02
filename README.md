@@ -15,5 +15,22 @@ Olá, chamo-me Washington Elias, tenho 31 anos e moro de Lisboa. Recentemente co
   </a>
 </p>
 
-<br/>
-<br/>
+---
+## 📂 Meus Projetos
+Aqui compartilho meus principais projetos de **Análise de Dados**.  
+➡️ Confira aqui:  
+[![GitHub Repositórios](https://img.shields.io/badge/GitHub-Repositórios-black?logo=github)](https://github.com/Washington-Elias?tab=repositories)
+
+<h2>📌 Contatos</h2>
+
+<a href="https://wa.me/351919636740?text=Ol%C3%A1!%20Vi%20seu%20perfil%20no%20GitHub%20e%20quero%20conversar%20sobre%20poss%C3%ADveis%20oportunidades%20profissionais." target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-Contato-green?logo=whatsapp" alt="WhatsApp">
+</a>
+
+<a href="https://www.linkedin.com/in/washingtonelias/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin" alt="LinkedIn">
+</a>
+
+<p>📧 <b>Email:</b> analisededados.31@gmail.com</p>
+
+
